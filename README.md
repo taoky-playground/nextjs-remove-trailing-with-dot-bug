@@ -1,3 +1,8 @@
+Links:
+- (No issues with GitHub Pages) https://taoky-playground.github.io/nextjs-remove-trailing-with-dot-bug/
+- (Bugs with Cloudflare Pages) https://ee4e5146.nextjs-remove-trailing-with-dot-bug.pages.dev/
+
+---
 This is a [Next.js](https://nextjs.org/) template to use when reporting a [bug in the Next.js repository](https://github.com/vercel/next.js/issues).
 
 ## Getting Started
